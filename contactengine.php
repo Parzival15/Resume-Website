@@ -1,8 +1,8 @@
 <?php
 
-$EmailFrom = "chriscoyier@gmail.com";
-$EmailTo = "CHANGE-THIS@YOUR-DOMAIN.com";
-$Subject = "Nice & Simple Contact Form by CSS-Tricks";
+$EmailFrom = "dhruvchaudhry@website.com";
+$EmailTo = "dhruvchaudhry15@gmail.com";
+$Subject = "Contact Enquiry";
 $Name = Trim(stripslashes($_POST['Name'])); 
 $Tel = Trim(stripslashes($_POST['Tel'])); 
 $Email = Trim(stripslashes($_POST['Email'])); 
